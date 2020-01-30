@@ -10,16 +10,29 @@ Maciel
 Junior
     git remote add upstream https://github.com/leicamvb/teste2901.git
     git fetch upstream
-    git checkout master
+    --git checkout master
     git merge upstream/master
+
+    -Alterar o arquivo
 
     git commit -m "Segundo Commit"
     git push origin master
 
     fazer pull request no site do github
 
+
 Maciel  
-    Fazer 
+    Fazer pull resquest mesclagem
+    git pull
+    git commit -m "Feat(index.php) Quarto Commit" 
+    git push origin master
 
+Junior  
+    git fetch upstream
+    --git checkout master
+    git merge upstream/master
 
-
+    -Alterar o arquivo
+    
+    git commit -m "Segundo Commit"
+    git push origin master
