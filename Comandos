@@ -1,0 +1,25 @@
+Maciel
+    - Criar pasta no Github
+    - Criar a pasta local
+    - entrar na pasta local
+    git init
+    git add index.php
+    git remote add origin https://github.com/leicamvb/teste2901.git
+    git push -u origin master
+
+Junior
+    git remote add upstream https://github.com/leicamvb/teste2901.git
+    git fetch upstream
+    git checkout master
+    git merge upstream/master
+
+    git commit -m "Segundo Commit"
+    git push origin master
+
+    fazer pull request no site do github
+
+Maciel  
+    Fazer 
+
+
+
