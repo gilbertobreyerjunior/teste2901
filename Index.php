@@ -1,1 +1,12 @@
-Teste1 - Criado o arquivo
+<?php
+
+
+
+
+
+
+
+$frase = "Teste1 - Criado o arquivo";
+
+
+?>
